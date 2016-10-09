@@ -1,0 +1,29 @@
+{
+  "name": "boilerplate-gulp-sass-bootstrap",
+  "version": "0.1.0",
+  "description": "gulp dependencies",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgimov/pomodoro-timer.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "E.Ghimazitdinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgimov/pomodoro-timer/issues"
+  },
+  "homepage": "https://github.com/evgimov/pomodoro-timer#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "jquery": "^3.1.1"
+  }
+}
